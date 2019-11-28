@@ -29,4 +29,3 @@ func application(_ application: UIApplication, didFinishLaunchingWithOptions ...
 
 ### Important Notes
 * SDK uploads last session data whenever the app is about to enter the foreground. 
-* averous iOS SDK **0.9.5** uses http protocol so you must set *NSAppTransportSecurity (at Info.plist)*
