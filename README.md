@@ -21,7 +21,7 @@ import Averous
 
 func application(_ application: UIApplication, didFinishLaunchingWithOptions ....) -> Bool {
     ...
-    Averous.shared.start("TEST")
+    Averous.shared.start("YOUR_API_KEY")
     return true
 }
 ```
